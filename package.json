@@ -50,7 +50,7 @@
     "web3": "0.20.7",
     "webpack": "^3.10.0",
     "wyvern-js": "github:MetaFam/wyvern-js",
-    "wyvern-schemas": "git+https://github.com/ProjectOpenSea/wyvern-schemas.git#v0.11.1"
+    "wyvern-schemas": "github:MetaFam/wyvern-schemas"
   },
   "husky": {
     "hooks": {
